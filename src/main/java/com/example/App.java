@@ -8,6 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hellaaooo World!" );
+        System.out.println( "Hellaaooo World!" );// CI TEST COMMENT
+
     }
 }
