@@ -1,12 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.example.MultiplicationTest
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.003 s <<< FAILURE! - in com.example.MultiplicationTest
-testMultiplyPositive  Time elapsed: 0.003 s  <<< FAILURE!
-org.opentest4j.AssertionFailedError: expected: <6.0> but was: <4.0>
-	at com.example.MultiplicationTest.testMultiplyPositive(MultiplicationTest.java:11)
-
-testMultiplyNegative  Time elapsed: 0 s  <<< FAILURE!
-org.opentest4j.AssertionFailedError: expected: <-6.0> but was: <4.0>
-	at com.example.MultiplicationTest.testMultiplyNegative(MultiplicationTest.java:17)
-
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.005 s -- in com.example.MultiplicationTest

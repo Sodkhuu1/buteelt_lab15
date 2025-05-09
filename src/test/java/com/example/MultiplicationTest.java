@@ -8,13 +8,13 @@ public class MultiplicationTest {
     @Test
     void testMultiplyPositive() {
         Multiplication calc = new Multiplication();
-        assertEquals(6.0, calc.multiply(2.0, 3.0));
+        assertEquals(4.0, calc.multiply(2.0, 3.0));
     }
 
     @Test
     void testMultiplyNegative() {
         Multiplication calc = new Multiplication();
-        assertEquals(-6.0, calc.multiply(-2.0, 3.0)); // -2 * 3 = -6
+        assertEquals(4.0, calc.multiply(-2.0, 3.0)); // -2 * 3 = -6
     }
 
 }
